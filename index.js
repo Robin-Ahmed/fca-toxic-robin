@@ -41,7 +41,7 @@ global.Fca = new Object({
             "PreKey": "",
             "AutoUpdate": false,
             "MainColor": "#9900FF",
-            "MainName": "[ FCA-ANYA ]",
+            "MainName": "[ fca-toxic-robin ]",
             "Uptime": false,
             "Config": "default",
             "Login2Fa": false,
