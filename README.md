@@ -1,5 +1,5 @@
 ## Notification !
-https://github.com/ChoruTiktokers182/c5c-Fbstate
+https://github.com/Robin-Ahmed
     * Developers: @KanzuWakazaki - @HarryWakazaki
 Note! This is a vegito Remake Product (By Schmavery's Facebook-Chat-Api, The Author Is Not Responsible! ), If There's Any Error Please Try Using Another Product !
 
@@ -20,11 +20,11 @@ Note ! If You Want To Share This Api Please See The Document At [Here](https://g
 
 If You Want To Use It, Download It By:
 ```bash
-npm i fca-anya-remake
+npm i fca-toxic-robin
 ```
 or
 ```bash
-npm install fca-anya-remake
+npm install fca-toxic-robin
 ```
 
 It Will Load Into node_modules (Your Lib) - Note Replit Won't Show Where to Find
@@ -33,11 +33,11 @@ It Will Load Into node_modules (Your Lib) - Note Replit Won't Show Where to Find
 
 If You Want To Use The Latest Version Or Update Then Go To Terminal Or Command Prompt Enter :
 ```bash
-npm install fca-anya-remake@latest
+npm install fca-toxic-robin@latest
 ```
 Or
 ```bash
-npm i fca-anya-remake@latest
+npm i fca-toxic-robin@latest
 ```
 
 ## If You Want To Test Api
@@ -48,7 +48,7 @@ Please Use With Demo Account => [Facebook Whitehat Accounts](https://www.faceboo
 ## Using
 
 ```javascript
-const login = require("fca-anya-remake"); // get from lib
+const login = require("fca-toxic-robin"); // get from lib
 
 // log in
 login({email: "Gmail Account", password: "Your Facebook Password"}, (err, api) => {
@@ -88,7 +88,7 @@ You Need To Go To Mirai.js File, Then Find The Line
 And Replace It With:
 
 ```js
-    var login = require('fca-anya-remake')
+    var login = require('fca-toxic-robin')
 ```
 
 Then Run As Normal!
@@ -108,7 +108,7 @@ __Instructions With Appstate__
 
 ```js
 const fs = require("fs");
-const login = require("fca-anya-remake");
+const login = require("fca-toxic-robin");
 
 var credentials = {email: "FB_EMAIL", password: "FB_PASSWORD"}; // info tk
 
