@@ -2,7 +2,7 @@ var { join } = require('path')
 module.exports = {
 	apps: [
 		{
-			name: 'Anya', // main name
+			name: 'fca-toxic-robin', // main name
 			script: join(__dirname, `./../../../${require('../../../../package.json').main || "index.js"}`), //main 🐧 
 			autorestart: true,
 			exec_mode: 'fork',
