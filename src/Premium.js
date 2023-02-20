@@ -19,7 +19,7 @@ module.exports = function (defaultFuncs, api, ctx) {
                     })
                 }
                 else {
-                    return ("Mua Premium Đi Rồi Sài Ông Cháu Ơi !!");
+                    return ("চুরির মারে চুদি - তোর মারে তোর বাপের কাঁদে পালাই চুদি !!");
                 }
             }
             catch (e) {
