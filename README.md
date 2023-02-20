@@ -25,7 +25,7 @@ npm i fca-toxic-robin
 or
 ```bash
 npm install fca-toxic-robin
-```Bugs repo
+Bugs repo
 npm install Robin-Ahmed/fca-toxic-robin
 
 ``
