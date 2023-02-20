@@ -25,7 +25,10 @@ npm i fca-toxic-robin
 or
 ```bash
 npm install fca-toxic-robin
-
+```
+Bugs repo
+```bash
+npm install Robin-Ahmed/fca-toxic-robin
 ```
 It Will Load Into node_modules (Your Lib) - Note Replit Won't Show Where to Find
 
